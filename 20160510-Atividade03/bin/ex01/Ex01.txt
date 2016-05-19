@@ -1,0 +1,9 @@
+
+
+## Atividade 3
+
+# Exercício 1)
+
+a) Foram criados 13 objetos string, uma vazia na declaração e mais 12 nas concatenações.
+
+b) Melhor solução é utilizar as classes "StringBuilder" ou  "StringBuffer" que criam Strings mutáveis.

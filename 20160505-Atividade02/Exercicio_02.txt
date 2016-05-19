@@ -1,0 +1,13 @@
+## Atividade 02
+
+# Execício 2
+
+[IMPLÍCITA] a. objeto para equipamento (objeto=equipamento;);
+[IMPLÍCITA] b. objeto para móvel (objeto=movel;);
+[IMPLÍCITA] c. equipamento para tablet2 (equipamento=tablet2;);
+[IMPLÍCITA] d. equipamento para smartphone2 (equipamento=smartphone2;);
+[IMPLÍCITA] e. smartphone para tablet (smartphone=tablet;);
+[IMPOSSÍVEL]f. smartphone2 para tablet2 (smartphone2=tablet2;);
+[EXPLICITA] g. equipamento para tablete (equipamento=(Equipamento) tablet;);
+[EXPLICITA] h. movel para tablete (movel=(Movel) tablet;);
+[EXPLICITA] i. tablet para equipamento (tablet=(EquipamentoEletronico) equipamento;); 

@@ -1,0 +1,6 @@
+## Atividade 02
+
+# Execício 3
+
+Ítem A exibe "true"
+Ítem B exibe "false"
